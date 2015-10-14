@@ -1,0 +1,52 @@
+h1, h2
+{
+	text-align: center;
+}
+
+h1
+{
+	font-size: 70px;
+	font-family: sans-serif;
+	margin: 0;
+}
+
+h2
+{
+	font-size: 15px;
+	font-family: sans-serif;
+}
+
+.article
+{
+	width: 70%;
+	margin: 0 auto;
+	font-size: 20px;
+	margin-bottom: 250px;
+}
+
+ul
+{
+	list-style-type: none;
+	padding: 0;
+}
+
+.header
+{
+	background-color: #6DCCD6;
+	padding: 30px;
+}
+
+.footnotes
+{
+	font-size: 15px;
+}
+
+body
+{
+	margin: 0;
+}
+
+sup
+{
+	font-size: 14px;
+}
