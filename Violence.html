@@ -10,7 +10,13 @@
 				color: red;
 			}
 			
-			#hiddenParTrig
+			#reponse1, #reponse2, #reponse3
+			{
+				display:none;
+				color:green;
+			}
+			
+			#hiddenParTrig, #choix1, #choix2, #choix3
 			{
 				cursor: pointer;
 			}
@@ -38,12 +44,14 @@
 			<p>Pour le deuxième argument mis de l’avant par les joueurs, je vous demanderai une participation encore plus forte. (Wow! Un article interactif sur un blog qui parle de jeux vidéo! Comme c’est opportun!). </p>
 			<p>Dans l’image suivante, trouvez ce qui cloche:</p> 
 			<p> <img src = "https://scontent-yyz1-1.xx.fbcdn.net/hphotos-xpf1/t31.0-8/s720x720/11062774_808280235915386_7819983981437982436_o.jpg"></img> </p>
-			<div>1. On compare des métiers à un crime. </div>
-			<div>2. La première phrase est incomplète. </div>
-			<div>3. Surgeon Simulator est une daube. </div>
-			<p>1: Bonne réponse! Aux métiers sont associées des compétences; aux crimes est associé le comportement. On s’entendra pour dire qu’il est plus simple d’influer sur le comportement que sur les compétences du joueur, surtout à son insu. </p>
-			<p>2: Effectivement, on devrait dire “NFL Pro Player”. Mais cela ne falsifie pas le raisonnement pour autant! Cherche encore!</p>
-			<p>3: Oui. Surgeon Simulator, ainsi que tous les Simulator par ailleurs, sont une insulte aux jeux vidéo. Ceux qui achètent ces jeux encouragent le développement de jeux à moindre effort. “Oui, mais c’est ironique!”. Je m’en fou. C’est de la merde. Et vous en redemandez. </p>
+			<div>Cliquez sur le choix qui correspond à votre réponse. (Vous pouvez en sélectionner plusieurs!</div>
+			<div id = "choix1">1. On compare des métiers à un crime. </div>
+			<div id = "choix2">2. La première phrase est incomplète. </div>
+			<div id = "choix3">3. Surgeon Simulator est une daube. </div>
+			
+			<div id = "reponse1">1: Bonne réponse! Aux métiers sont associées des compétences; aux crimes est associé le comportement. On s’entendra pour dire qu’il est plus simple d’influer sur le comportement que sur les compétences du joueur, surtout à son insu. </div>
+			<div id = "reponse2">2: Effectivement, on devrait dire “NFL Pro Player”. Mais cela ne falsifie pas le raisonnement pour autant! Cherche encore!</div>
+			<div id = "reponse3">3: Oui. Surgeon Simulator, ainsi que tous les Simulator par ailleurs, sont une insulte aux jeux vidéo. Ceux qui achètent ces jeux encouragent le développement de jeux à moindre effort. “Oui, mais c’est ironique!”. Je m’en fou. C’est de la merde. Et vous en redemandez. </div>
 			<p>Pour ma part, mon verdict est que les jeux vidéo contribuent d’une certaine façon à augmenter la violence. Comme dit plus haut, il me semble évident qu’ils ne peuvent pas provoquer une réaction extrême chez une personne mentalement stable. Par contre, une exposition prolongée à des images violentes, même chez une personne normale, n’est pas sans incidence. </p>
 			<p>Par exemple, il est universellement admis que la publicité influence les gens. Sinon, pourquoi investirait-on autant dans le marketing? Bien sûr, peu de gens reconnaissent qu’eux-mêmes font des achats en fonction de campagnes publicitaires, mais force est d’admettre que nul d’entre nous n’y échappe. </p>
 			<p>Il n’est donc pas inconcevable que de jouer à répétition à des jeux violents rendent quelque peu violent, quoi qu’en disent les joueurs. Les effets sont néanmoins plus subtils que ce que veulent bien dire les média. Par exemple, nous sommes presque tous d’accord que la violence est banalisée dans notre société. L’effet supposé de la  surexposition à la violence, c’est de ne presque plus ressentir d’empathie à l’égard des victimes. On pourrait également être plus agressif, que ce soit dans nos gestes, nos paroles ou notre attitude. Ce n’est rien de catastrophique. Il n’y a pas de quoi faire des joueurs des tueurs; c’est néanmoins suffisant pour en faire des êtres qui auront peut-être moins tendance à aider (car ne ressentant pas d’empathie) et plus tendance à nuire (car étant plus agressifs). Attention, je parle ici de tendance, et pas de fatalité. </p>
@@ -57,6 +65,15 @@
 		<script>
 			document.getElementById("hiddenParTrig").onclick = function(){
 				document.getElementById("hiddenPar").style.display = "inLine";
+			};
+			document.getElementById("choix1).onclick = function(){
+				document.getElementById("reponse1").style.display = "inLine";
+			};
+			document.getElementById("choix2").onclick = function(){
+				document.getElementById("reponse2").style.display = "inLine";
+			};
+			document.getElementById("choix3").onclick = function(){
+				document.getElementById("reponse3").style.display = "inLine";
 			};
 		</script>
 	</body>
