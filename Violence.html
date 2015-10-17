@@ -3,6 +3,12 @@
 	<head>
 		<meta charset = "UTF-8">
 		<link rel="stylesheet" type="text/css" href="articleStyle.css">
+		<style>
+			#hiddenPar
+			{
+				display: none;
+			}
+		</style>
 	</head>
 	<body>
 		<div class = "header">
@@ -13,13 +19,16 @@
 			
 			<h3>La violence dans les jeux vidéo: débat contemporain.</h3>
 
-			<p>L’impact de la violence dans les jeux vidéo est un sujet qui est la plupart du temps très mal traité. On a d’un côté les média généralistes qui font du sensationnalisme, ce qui n’en montrent que les extrêmes les plus déplorables. On a les cas bien connus de tireurs qui, semble-t-il, auraient commis leurs délits suite à une overdose de jeux vidéo violents.  On s’en doute, ce n’est pas un tableau très représentatif de la réalité de la très grande majorité des joueurs. </p>
+			<p>L’impact de la violence dans les jeux vidéo est un sujet qui est la plupart du temps très mal traité. On a d’un côté les média généralistes qui font du sensationnalisme, ce qui n’en montrent que les extrêmes les plus déplorables. On a les cas bien connus de tireurs qui, semble-t-il, auraient commis leurs délits suite à une <em>overdose</em> de jeux vidéo violents.  On s’en doute, ce n’est pas un tableau très représentatif de la réalité de la très grande majorité des joueurs. </p>
 			<p>De l’autre côté, il y les joueurs, qui prennent bien évidemment la défense de leur passe-temps de prédilection. Il va de soi qu’ils ont un parti pris, et qu’ils ne feront en aucun cas de l’autocritique. </p>
 			<p>Il y a là un problème: on ne dispose pas vraiment d’analyste neutre pour traiter de façon objective de la violence dans les jeux vidéo. Eh bien, j’ai la prétention de croire être cette personne suffisamment neutre pour porter un regard critique sur ce sujet sans me laisser aveugler par mon amour pour les jeux. </p>
 			<p>D’abord, faisons rapidement un tour de table pour voir les arguments avancés par les deux groupes. Je vends tout de suite le punch: ils sont mauvais des deux côtés. </p>
 			<p>Les média vont mettre la faute des fusillades sur le dos des jeux vidéo, prétendant que leur contenu violent rend les joueurs eux-mêmes violents. Or, il est évident qu’un humain sain d’esprit ne pourra être poussé à un acte aussi extrême simplement en s’exposant à des images violentes. Il faut avoir des prédispositions psychiatriques. </p>
 			<p>De plus, ce qu’il ne faut pas oublier, c’est que nous sommes exposés à toutes sortes d’images violentes dès notre plus tendre enfance. Les films, les émissions de télé et même les nouvelles nous bombardent (haha) de scènes violentes, dont certaines sont réelles. Qu’on pointe du doigt les jeux vidéo, certes, mais il faut alors être cohérent et critiquer le reste. </p>
-			<p>Par contre, les joueurs font davantage pitié dans leur argumentaire. Ils usent de divers sophismes, tel que: “Mais où étaient les jeux vidéo au Moyen- ge?”, alors qu’il y avait déjà des guerres, notamment les grandes croisades. Ce n’est pas parce que la violence existait sans l’aide des jeux vidéo qu’ils n’y contribuent pas. Je vais moi-même utiliser une simple comparaison pour faire valoir mon point: on sait pertinemment que les écrans augmentent les troubles de vision. Est-ce que cela veut dire que la myopie était inexistante avant l’apparition de la télévision? Voilà, à vous de faire le reste du raisonnement. CLIQUEZ ICI SI VOUS NE VOULEZ PAS RÉFLÉCHIR (mais je vous jugerai sévèrement). (Faire un compteur ou quelque chose pour ceux qui ne veulent pas réfléchir) Non, la myopie n’était pas inexistante avant, mais la télévision contribue évidemment au développement de troubles de la vision. Il en va de même pour la violence: elle existait avant la création des jeux vidéo, mais cela ne les empêche pas d’y contribuer. </p>
+			<p>Par contre, les joueurs font davantage pitié dans leur argumentaire. Ils usent de divers sophismes, tel que: “Mais où étaient les jeux vidéo au Moyen-âge?”, alors qu’il y avait déjà des guerres, notamment les grandes croisades. Ce n’est pas parce que la violence existait sans l’aide des jeux vidéo qu’ils n’y contribuent pas. Je vais moi-même utiliser une simple comparaison pour faire valoir mon point: on sait pertinemment que les écrans augmentent les troubles de vision. Est-ce que cela veut dire que la myopie était inexistante avant l’apparition de la télévision? Voilà, à vous de faire le reste du raisonnement. <span id = "hiddenParTrig">CLIQUEZ ICI SI VOUS NE VOULEZ PAS RÉFLÉCHIR</span> (mais je vous jugerai sévèrement). (Faire un compteur ou quelque chose pour ceux qui ne veulent pas réfléchir)  </p>
+			
+			<p id = "hiddenPar">Non, la myopie n’était pas inexistante avant, mais la télévision contribue évidemment au développement de troubles de la vision. Il en va de même pour la violence: elle existait avant la création des jeux vidéo, mais cela ne les empêche pas d’y contribuer.</p>
+			
 			<p>Pour le deuxième argument mis de l’avant par les joueurs, je vous demanderai une participation encore plus forte. (Wow! Un article interactif sur un blog qui parle de jeux vidéo! Comme c’est opportun!). </p>
 			<p>Dans l’image suivante, trouvez ce qui cloche:
 https://scontent-yyz1-1.xx.fbcdn.net/hphotos-xpf1/t31.0-8/s720x720/11062774_808280235915386_7819983981437982436_o.jpg</p>
@@ -39,7 +48,11 @@ https://scontent-yyz1-1.xx.fbcdn.net/hphotos-xpf1/t31.0-8/s720x720/11062774_8082
 			</div>
 
 		</div>
-		
+		<script>
+			document.getElementById("hiddenParTrig").onclick = function(){
+				document.getElementById("hiddenPar").style.display = "inLine";
+			};
+		</script>
 	</body>
 
 </html>
