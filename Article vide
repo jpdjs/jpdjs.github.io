@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset = "UTF-8">
+		<link rel="stylesheet" type="text/css" href="articleStyle.css">
+	</head>
+	<body>
+		<div class = "header">
+			<h1>Jeu pense, donc jeu suis</h1>
+			<h2>Réflexions sur le jeu vidéo, sa place dans la société et son rapport avec le joueur.</h2>
+		</div>
+		<div class = "article">
+			
+			<h3>Titre</h3>
+
+			<p>Article (contenu)</p>
+ 
+			</div>
+
+		</div>
+		
+	</body>
+
+</html>
