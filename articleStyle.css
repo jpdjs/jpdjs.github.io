@@ -41,6 +41,12 @@ ul
 	font-size: 15px;
 }
 
+.photocomment
+{
+	font-size: 10px;
+	width: 100px;
+}
+
 body
 {
 	margin: 0;
