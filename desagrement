@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset = "UTF-8">
+		<link rel="stylesheet" type="text/css" href="articleStyle.css">
+	</head>
+	<body>
+		<div class = "header">
+			<h1>Jeu pense, donc jeu suis</h1>
+			<h2>Réflexions sur le jeu vidéo, sa place dans la société et son rapport avec le joueur.</h2>
+		</div>
+		
+		<div class = "article">
+			
+			<h3>Désagrément et jeu, un duo compatible</h3>
+			
+			<p><i>Faut-il vraiment chercher à plaire à tout le monde? À force de n’offrir aux gens que ce qu’ils demandent, on perd l’occasion de leur offrir une expérience novatrice, unique, personnelle ou instructive... </i></p>
+
+			<p>Ces dernières années, les développeurs ont tout tenté pour démocratiser le jeu vidéo. On tente d’en faire un divertissement tout public. Certains voient cela d’un mauvais oeil: cela amoindrirait la complexité et parfois la qualité des jeux afin de maximiser l'accessibilité. Personnellement, j’accueille volontiers ce changement dans l’industrie, car plus il y a de gens qui jouent, plus on s’amuse! De plus, cela contribue à améliorer l’image des jeux vidéo. Après tout, si tout le monde joue, c’est qu’il est correct de jouer, non?</p>
+			
+			<p>Par contre, je ne trouve pas souhaitable que certains genres de jeux disparaissent ou que certains concepts ne voient pas le jour uniquement parce qu’ils ne sont pas “assez vendeurs”. L’existence des uns (les jeux grand publics) ne doit pas empêcher l’existence des autres (les jeux “hardcore” ou les jeux de niche). De la même façon qu’au cinéma, il y a des blockbusters et des films d’auteur. </p>
+			
+			<p>Après tout, quand un artiste produit une oeuvre, travestira-t-il son idée pour plaire au plus grand nombre? Bon, parfois oui, mais on s’entend pour dire qu’il serait dommage que tous les artistes agissent ainsi, créant des produits commerciaux, impersonnels et conformistes. Si l’auteur ne se plie pas aux attentes du public, c’est là qu’il peut le surprendre et peut-être l’enchanter par une production unique en son genre. L’auteur peut même pousser plus loin ce refus d’être la coqueluche du public et chercher expressément à lui déplaire, voire à le rendre inconfortable ou dégoûté. </p>
+			
+			<p>Le jeu vidéo me semble être le médium par excellence pour transmettre ce genre de ressenti, notamment avec les jeux vidéo d’horreur qui sont à mon avis bien plus horripilants que les films d’horreur (mais auxquels nous ne nous intéresserons pas aujourd’hui). Pour bien illustrer mon propos, penchons-nous sur le cas de <i>I Love You 2</i>, un jeu sur navigateur disponible à l’adresse suivante: <a href = http://www.kongregate.com/games/mirosurabu/i-love-you-2-revisited?acomplete=i+love>I Love You 2</a> </p>
+			
+			<p>C’est un jeu désagréable à jouer, et ce tant pour la forme (qui est injouable) que pour le fond (l’histoire rend le joueur mal à l’aise). Je dois cependant lever mon chapeau au développeur pour être parvenu à transmettre aussi bien et de façon aussi minimaliste les émotions du protagoniste.</p>
+			
+			<p>Le jeu se résume essentiellement à une conversation téléphonique avec la fille qui vous intéresse. Le jeu alterne entre les écrans de texte (qui sont les dialogues de la fille) et les écrans de jeu (qui sont les dialogues du garçon). Ces derniers écrans sont présentés de la façon suivante: </p>
+			
+			<p>
+			<img class="vbAlone" src="https://cloud.githubusercontent.com/assets/15003838/10987928/c8719a74-8405-11e5-86f1-d41902fbbcd5.png">
+			</p>
+			
+			<p></p>
+			
+			<p></p>
+			
+			<p></p>
+			
+			<p></p>
+			
+			<p></p>
+			
+			<p></p>
+			
+			<p></p>
+
+		</div>
+		
+	</body>
+
+</html>
