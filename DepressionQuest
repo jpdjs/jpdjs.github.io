@@ -1,1 +1,45 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset = "UTF-8">
+		<link rel="stylesheet" type="text/css" href="articleStyle.css">
+	</head>
+	<body>
+		<div class = "header">
+			<h1>Jeu pense, donc jeu suis</h1>
+			<h2>Réflexions sur le jeu vidéo, sa place dans la société et son rapport avec le joueur.</h2>
+		</div>
+		<div class = "article">
+			
+			<h3>Titre</h3>
 
+			<p><emp>La série d’articles</emp> Jeux exemplaires <emp> a pour but de promouvoir des jeux qui sortent du lot. Ceux-ci peuvent être engagés, éducatifs ou artistiques. Ce sont des expériences enrichissantes qui méritent d’être citées en exemple pour montrer la variété des jeux d’aujourd’hui, ainsi que la richesse et la profondeur que peuvent atteindre certains d’entre eux. </emp> </p>
+      
+      <p>Les jeux vidéo ont plutôt tendance à nous faire vivre des histoires épiques, des aventures extraordinaires, des épopées chevaleresques. Bref, ils nous sortent de notre quotidien pour nous emmener dans un univers où nous sommes surpuissants. Pourtant, le monde qui nous entoure fourmille déjà de tellement de situations inspirantes.  Pourquoi les jeux vidéo ne nous feraient-ils pas vivre des histoires ancrées dans le réel?  Pourquoi n’en profiteraient-ils pas pour, du même coup, nous en apprendre un peu plus sur notre monde, voire sur nous-mêmes?</p>
+      
+      <p>Le jeu que je vous présente aujourd’hui est<emp> Depression Quest</emp> de Zoe Quinn. Comme le titre vous le laisse deviner, il traite de la dépression. D’un point de vue purement ludique, aussi surprenant que cela puisse paraître, c’est une excellente idée, car on aime surmonter des épreuves dans un jeu, et la dépression est certainement l’une des choses les plus difficiles à surmonter...</p>
+      
+      <p>L’expérience de <emp>Depression Quest</emp> se résume essentiellement à lire du texte et à cliquer sur ce qu’on veut faire parmi les options proposées. </p>
+      
+      <p>Ce n’est pas un gameplay bien bien compliqué, et cela rend le jeu très accessible. Le but avoué du jeu est d’éduquer les gens sur ce qu’est la dépression et sur comment cela se vit afin d’abolir la stigmatisation envers les gens qui en sont atteints. Le rendre jouable par n’importe qui est donc très approprié. À ce propos, toujours dans un souci d’accessibilité, <emp>Depression Quest</emp> est distribué gratuitement, ce qui contribue également à sensibiliser le plus de personnes possible (il est accessible à l’adresse suivante : <a href = http://www.depressionquest.com/>http://www.depressionquest.com/</a>). On peut également faire une contribution volontaire, une partie des fonds allant aux développeurs, et une autre allant à un organisme luttant contre le suicide. Qui ne serait pas conquis par un but et une démarche si nobles?</p>
+      
+      <p>Vous avez probablement remarqué dans l’image précédente que certains des choix proposés sont rayés. C’est une des trouvailles très intéressantes de ce jeu: les actions sensées que l’on aurait tendance à faire sont là, bien en vue, et pourtant inaccessibles. C’est un peu frustrant, car on sait très bien que c’est ce qu’il y a de mieux à faire. Pourtant, malgré notre bon sens, on ne peut pas sélectionner ce choix; on ne peut agir comme il se doit. Le parallèle avec la dépression est frappant: les dépressifs savent bien ce qu’ils devraient faire, mais ils ne parviennent pas toujours à se décider d’agir en ce sens. Et cela les frustre, bien évidemment, au même titre que cela frustre les joueurs d’être ainsi contraints dans leurs actions.</p>
+      
+      <p>C’est quelque chose qui démontre très bien ce pour quoi j’adule <emp>Depression Quest</emp>: des activistes pourraient choisir de donner des conférences et de distribuer des dépliants pour informer les gens sur la dépression et ses répercussion. Cependant, entendre parler de la situation et la vivre ne donnent clairement pas le même degré de compréhension. Ainsi, en nous faisant vivre artificiellement la dépression à travers un jeu, l’auteure de <emp>Depression Quest</emp> nous fait comprendre de façon plus directe ce que vivent les gens dépressifs. </p>
+      
+      <p>Personnellement, et aussi étrange que cela puisse paraître, je trouve que c’est une approche plus humaine. D’accord, on est face à un écran et pas à un conférencier, donc à première vue le contact est plus froid; cependant, la conférence a de bonne chance de donner une description médicale de la dépression, d’énumérer des statistiques et d’autres faits… Bref, à moins de faire parler directement des dépressifs ou d’anciens dépressifs de leur expérience (ce qui je doute soit une bonne idée), cela ressemblera plus à un exposé qu’autre chose, et sera au final une expérience bien plus froide que le jeu. </p>
+      
+      <p>Ce qui est bien aussi, c’est que l’histoire évolue conformément à nos choix. En fait, on peut résumer cela ainsi: plus on se prend en mains, mieux ça va. J'applaudis cela pour deux raisons: premièrement, d’un point de vue vidéoludique, c’est super, car les joueurs aiment que dans les jeux qui leur offrent des choix, ces derniers aient de l’importance (sinon, à quoi bon laisser le joueur prendre une décision?). Cela leur fait sentir qu’ils ont du contrôle et que le jeu n’est pas figé. Deuxièmement, cela envoie un message comme quoi nous sommes les premiers à pouvoir s’aider. Bien sûr que notre entourage peut nous offrir son soutien; encore faut-il leur faire part de nos problèmes. Un thérapeute peut certainement nous aider, mais le thérapeute n’apparaîtra pas magiquement dans notre salon<sup>1</sup>. <emp>Depression Quest</emp> a également un deuxième but dont je ne vous avais pas parlé jusqu’à présent, c’est de faire comprendre aux gens dépressifs qu’ils ne sont pas les seuls à vivre leur problème. En voyant quelqu’un réussir à remonter la pente, peut-être que cela leur donnera confiance, et peut-être qu’ils iront eux-mêmes chercher de l’aide par la suite. </p>
+      
+      <p>En revanche, il faut dire que le protagoniste a toutes les chances de son côté. Il a des amis qui le soutiennent (il y en a même une qui voit qu’il va mal et qui le réfère à une thérapeute compétente), un frère qui le comprend, et une conjointe qui fait tout pour l’aider. Il n’a pas de problème majeur, mis à part un emploi qu’il trouve peu stimulant. Bref, on imagine que bien des gens vivent des scénarios bien pire et qu’il est moins évident pour eux de s’en sortir. D’ailleurs, il est stipulé au début du jeu qu’il n’est pas représentatif de l’expérience de tous les dépressifs, et c’est bien normal : une seule histoire ne peut pas inclure l’ensemble des expériences possibles. Il serait absurde de lui reprocher de ne pas en avoir été capable (ce que certains ont tout de même fait). </p>
+      
+      <p>Pour conclure, <emp>Depression Quest</emp> est un jeu qui a bien de l’audace. Je ne peux que vous le recommander. Cela a déjà été dit, mais il est gratuit, et en plus il est court (environ 2h, comme un film). La longueur des textes peut être rebutante pour certains, mais ne vous laissez pas effrayer : c’est très bien écrit (et donc agréable à lire), et si vous parlez assez bien anglais, vous n’aurez aucun problème de compréhension. Ce n’est certainement pas une expérience que je qualifierais “d’agréable”, mais c’est une belle expérience. J’ose croire que vous en ressortirez enrichi, et puis il ne faut pas se contenter de faire des choses plaisantes si on veut progresser dans la vie. La créatrice vous remerciera d’ailleurs à la fin du jeu “d’être partant pour jouer à des jeux qui veulent être autre chose que simplement amusants”. </p>
+      
+      <p>Dans mon <a href = >article sur le désagrément</a>, j’établissais que si on donne uniquement aux joueurs ce qu’ils demandent, on ne leur propose rien qui puisse les surprendre, pour le meilleur ou pour le pire. Ce constat ne pourrait être plus clair qu’avec <emp>Depression Quest</emp>; on peut même le pousser plus loin et dire que si on ne donne aux gens que ce qu’ils pensent vouloir, on ne leur donne peut-être pas ce qu’il y a de mieux, et qu’ils pourraient vouloir (sans le savoir).</p>
+      
+      <p>1. Attention: il n’est absolument pas question ici de culpabiliser les dépressifs pour leur situation. Je ne veux pas dire que c’est de leur faute s’ils dépérissent, mais au contraire montrer qu’ils peuvent améliorer leur sort le moindrement qu’ils s’investissent, ce qui est une pensée encourageante. </p>
+		</div>
+		
+	</body>
+
+</html>
